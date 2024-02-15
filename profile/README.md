@@ -12,7 +12,6 @@ To get started with [Organization Name], you can:
 
 1. **Explore Our Projects**: Check out the projects we're working on in the [Projects](./projects) tab.
 2. **Join the Discussion**: Engage with other members and contributors in our [Discussions](./discussions).
-3. **Contribute**: We welcome contributions! Feel free to open issues or submit pull requests.
 4. **Follow Us**: Stay updated on our latest activities by following us on [LinkedIn](https://www.linkedin.com/company/jesr), etc.
 
 ## Code of Conduct
